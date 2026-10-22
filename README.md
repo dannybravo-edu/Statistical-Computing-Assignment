@@ -42,5 +42,6 @@ The Python script calculates:
 4. Run `python analysis.py`.
 
 ## 8. Conclusion
-This project demonstrates the use of Python for
-descriptive statistics and Git for tracking project changes.
+This project demonstrates the use of Python for descriptive
+statistics and Git for version control. GitHub is used to
+store and share the project publicly.
